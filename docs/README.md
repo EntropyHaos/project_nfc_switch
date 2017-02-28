@@ -30,6 +30,6 @@ Semester Project
 * Piezo Sensor
 * Misc. led and resistors.
 
-![circuit diagram](/slides_basic-electronics-engineering/basic-electronics-engineering/2748916-circuit_diagram.jpg "Device Circuit Diagram")
+![circuit diagram](slides_basic-electronics-engineering/basic-electronics-engineering/2748916-circuit_diagram.jpg "Device Circuit Diagram")
 
 [Slide Set](slides_basic-electronics-engineering/index.html)
