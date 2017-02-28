@@ -1,26 +1,26 @@
 # NFC Switch Project
 
-# WHO?
+## WHO?
 
 Benjamin Haos
 
-# WAT?
+## WAT?
 
 An Arduino programmed to switch a relay when two nfc tags are present.
 
-# WEN?
+## WEN?
 
 Spring 2016
 
-# WER?
+## WER?
 
-Ewha Womans University
+[Presented](slides_basic-electronics-engineering/index.html) at Ewha Womans University.
 
-# WHY?
+## WHY?
 
 Semester Project
 
-# HOW?
+## HOW?
 
 ### Parts
 
@@ -32,4 +32,3 @@ Semester Project
 
 ![circuit diagram](slides_basic-electronics-engineering/basic-electronics-engineering/2748916-circuit_diagram.jpg "Device Circuit Diagram")
 
-[Slide Set](slides_basic-electronics-engineering/index.html)
