@@ -1,3 +1,3 @@
 # NFC Switch Project
 
-docs folder.
+[Slide Set](slides_basic-electronics-engineering/index.html)
