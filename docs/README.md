@@ -32,3 +32,4 @@ Semester Project
 
 ![circuit diagram](slides_basic-electronics-engineering/basic-electronics-engineering/2748916-circuit_diagram.jpg "Device Circuit Diagram")
 
+View [Project](https://github.com/EntropyHaos/project_nfc_switch) on GitHub.
