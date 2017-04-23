@@ -14,7 +14,8 @@ Spring 2016
 
 ## WER?
 
-[Presented](slides_basic-electronics-engineering/index.html) at Ewha Womans University.
+* [Presented](slides_basic-electronics-engineering/index.html) at Ewha Womans University.
+* Github [Repository](https://github.com/EntropyHaos/project_nfc_switch)
 
 ## WHY?
 
